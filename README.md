@@ -1,28 +1,24 @@
 # Content Optimization using NASA web access logs
 
+## Inspiration
+
 Web access logs provide lot of information about access patterns of different users. Here we are using NASA web access logs to indentfy the trends and patterns of different users like,
 
 1. Who are the top 10 users
-
 2. Which are the top 10 websites
-
 3. What is the average daily access rate per user
+4. Association rules between differnt websites. 
+
 
 ## Table of Contents.
 
-[Prerequisite](Prerequisite)
-
-[Installation](Installation)
-
-[Inclusions](Inclusions)
-
-[Contribution](Contribution)
-
-[License](License)
-
-[Contact](Contact)
-
-[Acknowledgements](Acknowledgements)
+    Prerequisite
+    Installation
+    Inclusions
+    Contribution
+    License
+    Contact
+    Acknowledgements
 
 
 ## Prerequisite
@@ -45,7 +41,8 @@ Web access logs provide lot of information about access patterns of different us
       5.Open a Pull Request
       
 ## License
-      Open source. No license required. 
+      Open source. No license required.
+      This project is carried out as a part of Udacity Nanodegree program
       
 ## Contact
       https://github.com/dilshadabdullakhan
