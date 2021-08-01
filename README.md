@@ -22,23 +22,39 @@ Web access logs provide lot of information about access patterns of different us
 
 
 ## Prerequisite
-  .apyori 
-
+    apyori 
+    Numpy
+    Pandas
+    Matplotlib/Seaborn
+  
+  
 ## Installation.
 
-      . Pip install [package name]
+      Pip install [package name]
+      Note:- Please check if the package has already been installed.
+      
       
 ## Inclusions.
-      . Datasets are included in the data folder. Extract the gz files  and import the tsv files for the month of July and August
+      . Datasets are included in the data folder. 
+      . Extract the gz files  and import the tsv files for the month of July and August
+      . Jupyter notebook with code.
+      
+## Conclusion. 
+       Association rules have three main metrics.
+            . Support
+            . Confidence
+            . Lift
+       Only those association rules can be extracted which satisfies business requirements of the above mentioned metrics.      
       
 ## Contribution
 
-      Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
-      1.Fork the Project
-      2.Create your Feature Branch (git checkout -b feature/logfeature)
-      3.Commit your Changes (git commit -m 'Add some logfeature')
-      4.Push to the Branch (git push origin feature/logfeature)
-      5.Open a Pull Request
+      Contributions are what make the open source community such an amazing place to be learn, inspire, and create. 
+      Any contributions you make are greatly appreciated.
+          1.Fork the Project
+          2.Create your Feature Branch (git checkout -b feature/logfeature)
+          3.Commit your Changes (git commit -m 'Add some logfeature')
+          4.Push to the Branch (git push origin feature/logfeature)
+          5.Open a Pull Request
       
 ## License
       Open source. No license required.
