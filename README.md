@@ -19,6 +19,7 @@ Web access logs provide lot of information about access patterns of different us
     License
     Contact
     Acknowledgements
+    Medium blogpost 
 
 
 ## Prerequisite
@@ -66,4 +67,5 @@ Web access logs provide lot of information about access patterns of different us
 ## Acknowledgements
       http://opensource.indeedeng.io/imhotep/docs/sample-data.
       
-
+## Medium Blogpost
+       https://medium.com/@dilshadakhan24/web-log-mining-association-rules-function-model-nasa-web-access-logs-c72eddc26bb4
